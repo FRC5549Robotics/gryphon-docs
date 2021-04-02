@@ -1,7 +1,7 @@
 About
 =====
 
-We are Gryphon Robotics, a student-run robotics club based out of George C. Marshall High School. We build robots throughout the year and participate in the :doc:`FIRST Robotics Competition </docs/frc>`. 
+We are Gryphon Robotics, a student-run robotics club based out of George C. Marshall High School. We build robots throughout the year and participate in the :doc:`FIRST Robotics Competition </docs/frc/overview>`. 
 
 Mission Statement
 -----------------

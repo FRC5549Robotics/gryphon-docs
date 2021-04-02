@@ -10,7 +10,23 @@ Welcome to the Gryphon Robotics docs! Here you can find information written by c
 
 .. toctree::
    :maxdepth: 1
-   :caption: General
+   :caption: Our Team
 
-   docs/about
-   docs/frc
+   docs/team/about
+
+.. toctree::
+   :maxdepth: 1
+   :caption: FIRST Robotics Competition
+
+   docs/frc/overview
+   docs/frc/build
+   docs/frc/competition
+   docs/frc/advancement
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Subteams
+
+   docs/subteams/build
+   docs/subteams/programming
+   docs/subteams/electrical
