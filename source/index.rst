@@ -1,20 +1,16 @@
-.. FRC5549-Docs documentation master file, created by
+.. Gryphon Robotics documentation master file, created by
    sphinx-quickstart on Fri Mar 12 16:18:13 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to FRC5549 Docs's documentation!
-========================================
+Gryphon Robotics Documentation
+==============================
+
+Welcome to the Gryphon Robotics docs! Here you can find information written by current and past members.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: General
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   docs/about
+   docs/frc

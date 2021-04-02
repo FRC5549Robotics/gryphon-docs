@@ -24,9 +24,9 @@ extensions = [
 
 # -- Project information -----------------------------------------------------
 
-project = 'FRC5549 Docs'
-copyright = '2021, FRC Team 5549'
-author = 'FRC Team 5549'
+project = 'Gryphon Robotics'
+copyright = '2021, Gryphon Robotics'
+author = 'Gryphon Robotics'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
